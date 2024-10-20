@@ -1,28 +1,33 @@
+
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-    font-family: 'Holimount';
-    src: url('/Fonts/Holimount.otf');
-}
-@font-face {
-    font-family: 'smooth';
-    src: url('/Fonts/Smooth\ Fantasy.ttf');
-}
-@font-face {
-    font-family: 'rounded';
-    src: url('/Fonts/Rounded_Elegance.ttf');
-}
-@font-face {
-    font-family: 'sugoclassic';
-    src: url('Fonts/Sugo-Pro-Classic-ExtraLight-trial.ttf');
-}
-@font-face {
-    font-family: 'sugolight';
-    src: url('Fonts/Sugo-Pro-Display-Light-trial.ttf');
-}
-@font-face {
-    font-family: 'sugobold';
-    src: url('Fonts/Sugo-Pro-Display-Regular-trial.ttf');
+@layer base {
+    @font-face {
+        font-family: 'Holimount';
+        src: url('../Fonts/Holimount.otf');
+    }
+    @font-face {
+        font-family: 'smooth';
+        src: url('Fonts/Smooth\ Fantasy.ttf');
+    }
+    @font-face {
+        font-family: 'rounded';
+        src: url('Fonts/Rounded_Elegance.ttf');
+    }
+    @font-face {
+        font-family: 'sugoclassic';
+        src: url('Fonts/Sugo-Pro-Classic-ExtraLight-trial.ttf');
+    }
+    @font-face {
+        font-family: 'sugolight';
+        src: url('Fonts/Sugo-Pro-Display-Light-trial.ttf');
+    }
+    @font-face {
+        font-family: 'sugobold';
+        src: url('Fonts/Sugo-Pro-Display-Regular-trial.ttf');
+    }
 }
