@@ -1,0 +1,30 @@
+@layer base {
+    @font-face {
+        font-family: 'Holimount';
+        src: url('../assets/Fonts/Holimount.otf');
+    }
+    @font-face {
+        font-family: 'smooth';
+        src: url('../assets/Fonts/Smooth\ Fantasy.ttf');
+    }
+    @font-face {
+        font-family: 'rounded';
+        src: url('../assets/Fonts/Rounded_Elegance.ttf');
+    }
+    @font-face {
+        font-family: 'sugoclassic';
+        src: url('../assets/Fonts/Sugo-Pro-Classic-ExtraLight-trial.ttf');
+    }
+    @font-face {
+        font-family: 'sugolight';
+        src: url('../assets/Fonts/Sugo-Pro-Display-Light-trial.ttf');
+    }
+    @font-face {
+        font-family: 'sugobold';
+        src: url('../assets/Fonts/Sugo-Pro-Display-Regular-trial.ttf');
+    }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

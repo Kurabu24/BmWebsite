@@ -1,13 +1,21 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./landing.html"],
+  content: ["./src/landing.html",
+    './node_modules/preline/preline.js',
+  ],
   theme: {
-    extend:{
+    extend: {
       fontFamily: {
+        sugoBold: ['sugobold'],
+        sugoLight: ['sugolight'],
+        sugoClassic: ['sugoclassic'],
+        smooth: ['smooth'],
+        rounded: ['rounded'],
         holimount: ['Holimount'],
       },
     },
   },
-  plugins: [],
+  plugins: [
+  ],
 }
 
