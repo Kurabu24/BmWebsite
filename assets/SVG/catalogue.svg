@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512" height="512">
+<g>
+	<path style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;M59.894,79.831H38.265C22.655,79.831,10,92.486,10,108.097v306.404c0,15.61,12.655,28.265,28.265,28.265h184.787&#10;&#9;&#9;c5.135,13.18,17.951,22.52,32.948,22.52h0c14.997,0,27.812-9.34,32.948-22.52h184.787c15.61,0,28.265-12.655,28.265-28.265V108.097&#10;&#9;&#9;c0-15.61-12.655-28.265-28.265-28.265h-20.65"/>
+	<g>
+		<path style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;&#9;M256,93.456v316.727h6.086c7.387-12.174,20.767-20.308,36.047-20.308h152.135V46.714H302.742&#10;&#9;&#9;&#9;C276.927,46.714,256,67.641,256,93.456z"/>
+		<path style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;&#9;M256,93.456v316.727h-6.086c-7.387-12.174-20.767-20.308-36.046-20.308H61.733V46.714h147.525&#10;&#9;&#9;&#9;C235.073,46.714,256,67.641,256,93.456z"/>
+	</g>
+	
+		<rect x="109.462" y="112.768" style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" width="98.809" height="83.617"/>
+	
+		<rect x="303.729" y="112.768" style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" width="98.809" height="83.617"/>
+	
+		<rect x="109.462" y="243.449" style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" width="98.809" height="87.745"/>
+	
+		<line style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="303.729" y1="247.704" x2="402.538" y2="247.704"/>
+	
+		<line style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="303.729" y1="289.449" x2="402.538" y2="289.449"/>
+	
+		<line style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="303.729" y1="331.193" x2="402.538" y2="331.193"/>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</svg>
