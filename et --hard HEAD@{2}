@@ -1,0 +1,32 @@
+[33m8f95282[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: rebase (start): checkout refs/remotes/origin/main
+[33mcaf1321[m[33m ([m[1;32mmain[m[33m)[m HEAD@{1}: commit: Added: new icons
+[33mda9bad7[m HEAD@{2}: rebase (abort): returning to refs/heads/main
+[33mda9bad7[m HEAD@{3}: rebase (abort): returning to refs/heads/main
+[33m681828a[m HEAD@{4}: commit (amend): minor updates to a separator
+[33m8f95282[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{5}: reset: moving to origin/main
+[33md857ca7[m HEAD@{6}: reset: moving to HEAD^
+[33mda9bad7[m HEAD@{7}: reset: moving to HEAD
+[33mda9bad7[m HEAD@{8}: checkout: moving from 8f9528288b143b2b5f4d8cb3c1b76f1b99408f04 to main
+[33m8f95282[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{9}: rebase (start): checkout refs/remotes/origin/main
+[33mda9bad7[m HEAD@{10}: commit: Getting back
+[33md857ca7[m HEAD@{11}: commit: Fixed Div problem
+[33m49bdf51[m HEAD@{12}: commit: Test2
+[33m9a1eff4[m HEAD@{13}: commit: Test
+[33m412b154[m HEAD@{14}: commit: updated the demi circle and fixed the background image
+[33m968887a[m HEAD@{15}: commit: delete gif
+[33m4b9590a[m HEAD@{16}: commit: various changes
+[33m8010589[m HEAD@{17}: reset: moving to HEAD~1
+[33m191f2c3[m HEAD@{18}: reset: moving to HEAD~1
+[33m2f1c69b[m HEAD@{19}: reset: moving to HEAD~1
+[33me108d84[m HEAD@{20}: checkout: moving from 191f2c39483a4237806169ab5bd7814f130a77ae to main
+[33m191f2c3[m HEAD@{21}: checkout: moving from main to 191f2c39483a4237806169ab5bd7814f130a77ae
+[33me108d84[m HEAD@{22}: commit: faf
+[33m2f1c69b[m HEAD@{23}: commit: removed mov video
+[33m191f2c3[m HEAD@{24}: commit: add various chages
+[33m8010589[m HEAD@{25}: reset: moving to origin/main
+[33md036f2e[m HEAD@{26}: commit: add gitignore file
+[33mc7d8db7[m HEAD@{27}: commit: rewrite ReadMe file
+[33m55f45d6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{28}: checkout: moving from main to main
+[33m55f45d6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{29}: checkout: moving from main to main
+[33m55f45d6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{30}: checkout: moving from master to main
+[33m55f45d6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{31}: commit (initial): Added landing page structure with Tailwind Starter Kit integration
