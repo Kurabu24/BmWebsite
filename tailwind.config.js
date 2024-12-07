@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage:{
+        'icon-pattern': "url('./assets/img/Frame 7 (1).svg')",
+      },
       fontFamily: {
         sugoBold: ['sugobold'],
         sugoLight: ['sugolight'],
